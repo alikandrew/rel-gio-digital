@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: rgba(221, 223, 238, 0.5);
+}
+#container{
+    background-color: rgba(189, 190, 198, 0.5);
+}
+#titulo{
+    font-family: fantasy;
+    font-size: 2rem; 
+}
+#relogio{
+    font-size: 05rem;
+}
+#retangulo{
+    background-color: rgb(167, 172, 178);
+}
+#Email{
+    height: 50px;
+    width: 50px;
+}
+#youtube{
+    height: 50px;
+    width: 50px;
+}
+#calendario{
+
+font-size: 3rem;
+font-style:oblique;
+
+}
